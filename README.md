@@ -27,7 +27,7 @@ In addition to my work in machine learning, I'm also learning frontend developme
 Here are some of my frontend projects where I'm applying what I've learned:
 
 - **[Monty Hall Game](https://github.com/marceloemr/monty_hall_game)**: A pretty simple game based on the Monty Hall Problem. Currently I'm just adding a bit of flavour to it since it's already finished.
-- **[Quiz Game](https://github.com/marceloemr/quiz_game)**: A small quiz game. I'm working on adding different quiz themes (such as computer science, history, etc) to it and porting it to English.
+- **[Quiz Game](https://github.com/marceloemr/quiz_game)**: (Work in Progress) A small quiz game. I'm working on adding different quiz themes (such as computer science, history, etc) to it and porting it to English.
 
 ## 📚 Skills
 
