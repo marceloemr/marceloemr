@@ -33,7 +33,7 @@ Here are some of my frontend projects where I'm applying what I've learned:
 
 - **Machine Learning**: Python, C++, TensorFlow, Keras, PyTorch, Scikit-Learn
 - **Data Science**: Pandas, NumPy, Matplotlib
-- **Frontend Development**: HTML, CSS, JavaScript, React, Node.js, Next.js
+- **Frontend Development**: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js
 - **Others**: C, Bash, Assembly amd64, OpenCV, Git, SQL
 
 ## 🌱 What I'm Currently Learning
